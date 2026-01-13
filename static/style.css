@@ -1,0 +1,37 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    margin-right: 150px;
+}
+
+h1 {
+    margin-left: 180px;
+}
+
+input {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-bottom: 4px solid black;
+}
+
+button {
+    background-color: #4caf50;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    padding: 17px 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 200px;
+}
+
+#predi {
+    margin-left: 200px;
+    color: white;
+
+}
